@@ -1,0 +1,17 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.text-shadow{
+    text-shadow: 0 0 6px #00000069;
+}
+/* 
+body{
+  background-color: #fff5ee; */
+  /* background-color: #dcdcdc; */
+  /* background-color: #064439; */
+  /* background-color: #006a6a; */
+  /* background-color: #232323; */
+  /* background-color: #efeee5;
+
+} */
