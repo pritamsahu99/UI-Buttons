@@ -3,7 +3,7 @@ import React from "react";
 const SubscribeFollow = () => {
   return (
     <>
-    <h1 className='text-center absolute top-14 text-2xl border-2 border-zinc-400 rounded-xl px-2 text-slate-200 font-semibold tracking-wider flex flex-col'>UI Buttons Tutorial
+    <h1 className='text-center absolute top-14 text-2xl border-2 border-zinc-400 rounded-xl px-2 text-slate-200 font-semibold tracking-wider flex flex-col'>UI Buttons Idea with Tutorial
     </h1>
     <div className="text-sm absolute top-24 text-zinc-200">
       Subscribe my <span className="relative cursor-pointer group z-30 hover:text-zinc-700 px-1.5 py-0.5 duration-300">YouTube

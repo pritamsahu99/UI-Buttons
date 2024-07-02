@@ -4,7 +4,7 @@ const SbscribeFollow2 = () => {
   return (
     <>
       <h1 className="text-center absolute top-14 text-2xl border-2 border-[#DCA47C] rounded-xl px-2 text-[#508D4E] font-semibold tracking-wider flex flex-col">
-        UI Premium Buttons Tutorial
+        UI Premium Buttons Idea with Tutorial
       </h1>
       <div className="text-sm absolute top-24 text-[#698474]">
         Subscribe my
