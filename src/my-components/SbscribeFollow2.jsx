@@ -8,7 +8,7 @@ const SbscribeFollow2 = () => {
       </h1>
       <div className="text-sm absolute top-24 text-[#698474]">
         Subscribe my
-        <span className="relative mx-0.5 cursor-pointer group z-30 hover:text-zinc-700 px-1.5 py-0.5 duration-300">
+        <span className="relative mx-0.5 cursor-pointer group z-30 hover:text-zinc-300 px-1.5 py-0.5 duration-300">
           YouTube
           <span className="bg-[#508D4E] w-full h-[1.5px] bottom-0 absolute left-0 group-hover:h-full duration-300 group-hover:rounded-lg -z-10">
             <h1 className="-translate-x-7 group-hover:translate-y-6 text-[#939185] font-semibold tracking-wide opacity-0 group-hover:opacity-100 duration-500">
@@ -23,7 +23,7 @@ const SbscribeFollow2 = () => {
           </div>
         </span>
         Channel and Follow me on
-        <span className="relative mx-0.5 cursor-pointer group z-30 hover:text-zinc-700 px-1.5 py-0.5 duration-300 ">
+        <span className="relative mx-0.5 cursor-pointer group z-30 hover:text-zinc-300 px-1.5 py-0.5 duration-300 ">
           Instagram
           <span className="bg-[#508D4E] w-full h-[1.5px] bottom-0 absolute left-0 group-hover:h-full duration-300 group-hover:rounded-lg -z-10">
             <h1 className="-translate-x-7 group-hover:translate-y-6 text-[#939185] font-semibold tracking-wide opacity-0 group-hover:opacity-100 duration-500">

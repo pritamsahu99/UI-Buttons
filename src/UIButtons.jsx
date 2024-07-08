@@ -7,7 +7,7 @@ import SubscribeFollow from './my-components/SubscribeFollow'
 
 const UIButtons = () => {
   return (
-    <div className='relative bg-[#006a6a] h-screen w-full flex justify-center items-end flex-wrap font-gilroy gap-20 py-24'>
+    <div className='relative bg-[#064439] h-screen w-full flex justify-center items-end flex-wrap font-gilroy gap-20 py-24'>
     <SubscribeFollow/>
     <OnLineCheckINBtn/>
     <OnLineCheckInBtn2/>
